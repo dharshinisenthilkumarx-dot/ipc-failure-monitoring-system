@@ -1,0 +1,8 @@
+{
+  "name": "IPC Failure Monitoring System",
+  "description": "Investigating Inter-Process Communication Failures in a Food Delivery Platform with real-time RabbitMQ-style broker simulation, failure injection, and recovery monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
